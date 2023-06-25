@@ -27,6 +27,7 @@ function numberOfOccurrencesInText(word, text) {
   });
   return wordCount;
 }
+ 
 
 // function boldPassage(word, text) {
 //   if ((text.trim().length === 0) || (word.trim().length === 0)) {
